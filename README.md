@@ -2,9 +2,9 @@
 
 Simple web extension for extracting tweets from a user profile or a tweet thread.
 
-# Installation
+# Install
 
-Load `manifest.json` as an temporary extension (in Firefox you can do this in [about:debugging](about:debugging#/runtime/this-firefox) page) and navigate to [twitter.com](https://twitter.com).
+Load `manifest.json` as a temporary extension (in Firefox you can do this in the [about:debugging](about:debugging#/runtime/this-firefox) page) and navigate to a [twitter.com](https://twitter.com).
 
 # Troubleshooting
 
